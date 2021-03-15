@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<VariablesViewState
+   version = "1.0">
+   <ContextStates>
+      <ContextState
+         contextName = "RutasViewController.viewWillAppear(_:):RutasViewController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "self.parent as? UITabBarController">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+   </ContextStates>
+</VariablesViewState>
